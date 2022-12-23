@@ -27,4 +27,5 @@ fields:
   default: []
   label: tag
 pages:
+- content/3-4.md
 - content/forestry.md
